@@ -14,10 +14,9 @@
           />
         </a>
       </td>
-      <td width="30"></td>
       <td>
         <img
-          height="150"
+          height="300"
           src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnllNTZ6dnQwdjVmaWQyaWVucGc0bDlpc2kycDAxYmJ0ZmMwOHQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rzr6V9lPpSM8g/giphy.gif"
         />
       </td>
